@@ -1,12 +1,12 @@
-import React from 'react'
+import React from 'react';
 import {
   BrowserRouter as Router,
   Switch,
   Route,
   Redirect,
-} from 'react-router-dom'
+} from 'react-router-dom';
 
-import { Navbar } from './app/Navbar'
+import { Navbar } from './app/Navbar';
 
 function App() {
   return (
@@ -27,7 +27,7 @@ function App() {
         </Switch>
       </div>
     </Router>
-  )
+  );
 }
 
-export default App
+export default App;
