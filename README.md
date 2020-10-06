@@ -1,6 +1,10 @@
-# Redux Essentials Tutorial Example
+# Testing Out [Redux Essentials Tutorial Example](https://github.com/reduxjs/redux-essentials-example-app) 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+More information can be found on this project on the [official Redux Essentials](https://redux.js.org/tutorials/essentials/part-3-data-flow#project-setup).
+
+The purpose of this repo is to test the new *Redux Essentials* guide while providing [Mark](https://github.com/markerikson) some feedback. 
+
+---
 
 ## Available Scripts
 
